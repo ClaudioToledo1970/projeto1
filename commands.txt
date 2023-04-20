@@ -1,0 +1,5 @@
+git init ----> 
+
+git status ---> ver status do git
+
+git add --> add ao commit (git add <nome do arquivo>)
