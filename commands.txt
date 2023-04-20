@@ -10,7 +10,16 @@ git commit -m "descreva o que foi feito na versão" --> criar versões
 
 git push enviar comitt
 
+como ver o historico de versões --> git reflog
+
+
 git remote add origin https://github.com/ClaudioToledo1970/projeto1 --> local a ser enviado o commit
 
 Copie e cole o link que foi criado
 
+git reflog --> revisão do log
+
+git reset --hard <codigo do arquivo a ser restaurado>
+
+git checkout <nome da brand a ser usada> entre aspas duplas
+git
