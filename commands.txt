@@ -3,3 +3,14 @@ git init ---->
 git status ---> ver status do git
 
 git add --> add ao commit (git add <nome do arquivo>)
+
+git add . --> add ao commit (git add <todos arquivo de uma só vez>)
+
+git commit -m "descreva o que foi feito na versão" --> criar versões 
+
+git push enviar comitt
+
+git remote add origin https://github.com/ClaudioToledo1970/projeto1 --> local a ser enviado o commit
+
+Copie e cole o link que foi criado
+
